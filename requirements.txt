@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+chromadb
+olefile
+huggingface_hub
+sentence-transformers
+rank-bm25  # BM25 키워드 검색용
+python-docx  # DOCX 파일 처리용
